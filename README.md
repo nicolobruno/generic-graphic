@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Component generic Graphic to using react-chartjs-2
+
+The component receives the props `type` for the type of graphic, `data` that has the graphic information, `width` and `height`. The `options` key includes other customizable stuff like tooltips, labels, axes, and more.
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
