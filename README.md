@@ -2,7 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Component generic Graphic to using react-chartjs-2
 
-The component receives the props `type` for the type of graphic, `data` that has the graphic information, `width` and `height`. The `options` key includes other customizable stuff like tooltips, labels, axes, and more.
+The component receives the props `type` for the type of graphic, `data` that has the graphic information, `width` and `height`. The `options` key includes other customizable stuff like tooltips, labels, axes, and more. information, `width` and `height`. The `options` key includes other customizable stuff like tooltips, labels, axes, and more.
+
 
 **Props**
 
